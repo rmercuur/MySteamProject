@@ -10,3 +10,5 @@ Weer een update, nog een update
 # Een andere update lokaal
 
 # Update 3 voor een conflict in dezelfde file
+
+#update 3b nu met commit lokaal
